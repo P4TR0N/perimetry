@@ -1,0 +1,8 @@
+github.com/FusionAuth/go-client v0.0.0-20200421201107-9d46d451d749 h1:cEwDMXwxNroLs3LWS1h9AsPVFw2MMyQux6KFO83nlmc=
+github.com/FusionAuth/go-client v0.0.0-20200421201107-9d46d451d749/go.mod h1:x5alHE36/KzvDMZ0xmOVyQbMMGT7Z4g9RVw57rLdv/M=
+github.com/P4TR0N/perimetry v0.0.0-20200423134802-cf49b29f9fb8 h1:5JGFkQShEiF6Ev0jSnVeXKfxQL+wSxQF3vqQ6M+45nc=
+github.com/P4TR0N/perimetry v0.0.0-20200423134802-cf49b29f9fb8/go.mod h1:mzacFPzGe/kZ/oNijGJeNKYPkrocwq/aWjv1yxp2TxM=
+github.com/gorilla/mux v1.7.4 h1:VuZ8uybHlWmqV03+zRzdwKL4tUnIp1MAQtp1mIFE1bc=
+github.com/gorilla/mux v1.7.4/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/scorredoira/email v0.0.0-20191107070024-dc7b732c55da h1:hhmnjfzz7szp75AyXxn8tDfEA0oU4REQLmpuW6zNAOY=
+github.com/scorredoira/email v0.0.0-20191107070024-dc7b732c55da/go.mod h1:Q5ljvYIBpukMH+wgB8kcPV1i9NX8TqU++8GgBKq3pt0=
